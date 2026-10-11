@@ -50,5 +50,3 @@ The net salary is calculated using:
 ## About
 
 This project was created for learning Python programming, functions, data structures, file handling, and JSON-based data storage.
-
-**Author:** Harsh
