@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Mohan",
+        "salary": 25000.0,
+        "id": 101,
+        "working_day": 26,
+        "present_day": 24,
+        "absent_day": 2
+    },
+    {
+        "name": "Rahul",
+        "salary": 30000.0,
+        "id": 102,
+        "working_day": 26,
+        "present_day": 26,
+        "absent_day": 0,
+        "month_salary": 30000.0
+    },
+    {
+        "name": "Priya",
+        "salary": 28000.0,
+        "id": 103,
+        "working_day": 26,
+        "present_day": 22,
+        "absent_day": 4
+    },
+    {
+        "name": "Amit",
+        "salary": 35000.0,
+        "id": 104,
+        "working_day": 25,
+        "present_day": 20,
+        "absent_day": 5
+    },
+    {
+        "name": "Neha",
+        "salary": 22000.0,
+        "id": 105,
+        "working_day": 22,
+        "present_day": 0,
+        "absent_day": 22
+    }
+]
